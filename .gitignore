@@ -1,0 +1,31 @@
+# Salesforce DX / SF CLI
+.sfdx/
+.sf/
+.localdevserver/
+deploy-options.json
+
+# Node / tooling
+node_modules/
+coverage/
+.npm/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Auth / local secrets
+.env
+.env.*
+*.key
+*.pem
