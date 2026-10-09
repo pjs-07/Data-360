@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>JovaFitGo_FitnessMetrics_DataKitSalesforce_HomeMember_ID_cGlobal_Fitness_MetricMember_IDptbVayfjynVlRRC</masterLabel>
+    <sourceField>Fitness_Device_Metric_c_Home1.Member_ID_c__c</sourceField>
+    <targetField>Global_Fitness_Metric__dlm.Member_ID__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>
